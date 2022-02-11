@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Republic of Ireland</title>
+		<title>Republic of Ireland - Links</title>
 		<meta charset="utf-8">
 	</head>
 	<body>
 		<header>
-			<h1>Republic of Ireland</h1>
+			<h1>Links</h1>
 		</header>
 		<nav>
 			<b>
 				<a href="index.html">Home</a> &nbsp;
-				<a href="Join.html">Join</a> &nbsp;
-				<a href="About.html">About</a> &nbsp;
+				<a href="join.html">Join</a> &nbsp;
+				<a href="about.html">About</a> &nbsp;
 				<a href="links.html">Links</a>
 			</b>
 		</nav>
 		<main>
-
+			
 		</main>
 	</body>
 </html>
