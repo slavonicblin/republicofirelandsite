@@ -2,3 +2,12 @@ body {
 	background-color: #5A9F4D;
 	color: #00061F;
 }
+
+#container {
+	margin-left: auto; 
+	margin-right: auto;
+	width: 80%;
+	background-color: #5A9F4D;
+	min-width: 650px; max-width: 1280px; 
+	box-shadow: 3px 3px 3px #333; 
+}
